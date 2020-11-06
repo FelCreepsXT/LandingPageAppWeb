@@ -576,3 +576,18 @@
   font-family: Bahnschrift;
   color: cadetblue;
 }
+.price-style{
+  color: #128f76;
+  text-align: center;
+}
+.button{
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  height: 53px;
+  background-color: darkcyan;
+  text-align: center;
+  color: white;
+  border-radius: 10px;
+}
